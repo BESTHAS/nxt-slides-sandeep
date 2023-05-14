@@ -1,0 +1,21 @@
+.display-card {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
+  background-size: cover;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-slides/nxt-slides-bg.png ');
+}
+.heading-text {
+  border: none;
+  font-size: 50px;
+  color: #0967d2;
+  font-family: 'bree serif';
+}
+.description-text {
+  border: none;
+  font-size: 23px;
+  color: #334155;
+  font-family: 'bree serif';
+}

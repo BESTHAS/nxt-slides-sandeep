@@ -1,0 +1,20 @@
+.slide-card {
+  background-color: #ffffff;
+  margin: 10px;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 3px 3px 3px;
+}
+.slides-list {
+  list-style-type: decimal;
+}
+.heading {
+  font-size: 22px;
+  font-family: 'bree serif';
+  color: #0967d2;
+}
+.descriptions {
+  font-family: 'bree serif';
+  font-size: 18px;
+  color: #334155;
+}

@@ -1,0 +1,31 @@
+.nxt-slides-container {
+  height: 100vh;
+}
+.next-slides-and-display-card {
+  display: flex;
+}
+.slides-list-card {
+  height: 75vh;
+  overflow: auto;
+  margin: 8px;
+}
+.nav-container {
+  display: flex;
+  background-color: #dbeafe;
+  height: 20vh;
+}
+.logo-title {
+  color: #0f172a;
+  font-family: 'bree serif';
+  font-size: 25px;
+}
+.nxt-logo {
+  height: 80px;
+  width: 80px;
+  margin: 20px;
+  padding: 5px;
+}
+.slides-list-card {
+  background-color: #f8fafc;
+  padding: 10px;
+}
